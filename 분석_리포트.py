@@ -3,7 +3,7 @@ import streamlit as st
 from streamlit_folium import st_folium
 import folium
 from folium import plugins
-import json
+# import json
 import time
 import pandas as pd 
 import numpy as np
