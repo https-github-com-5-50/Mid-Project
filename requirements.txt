@@ -10,5 +10,4 @@ bs4
 requests
 streamlit_folium
 folium
-json
 glob
